@@ -1,0 +1,7 @@
+run the planner with:
+
+```
+./optic-clp/optic-clp domain_temporal.pddl problem_temporal.pddl
+```
+
+It doesn't find an optimal plan. I think the resource generation needs a better approach.
